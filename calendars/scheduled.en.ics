@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.myvirtualserver.com//calendar//scheduled//EN
+NAME:myVirtualserver Status
+X-WR-CALNAME:myVirtualserver Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
