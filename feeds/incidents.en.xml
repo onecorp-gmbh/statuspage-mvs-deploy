@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Tue, 23 Mar 2021 09:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 09:32:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
