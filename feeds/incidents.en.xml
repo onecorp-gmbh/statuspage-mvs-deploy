@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Thu, 25 Mar 2021 09:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 17:16:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dedicated Server Relocation]]></title>
+            <link>https://status.myvirtualserver.com/incidents/051e3e3d</link>
+            <guid>https://status.myvirtualserver.com/incidents/051e3e3d</guid>
+            <pubDate>Thu, 25 Mar 2021 09:17:49 GMT</pubDate>
+            <description><![CDATA[We are relocating dedicated server hardware of a few customers]]></description>
+            <content:encoded><![CDATA[<p>We are relocating dedicated server hardware of a few customers. Affected customers have been notified via email.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-03-29T17:14:14.215Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>We have completed the maintenance. Affected customers we offline for less than 5 minutes.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>

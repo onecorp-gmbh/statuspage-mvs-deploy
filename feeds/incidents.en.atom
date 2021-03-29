@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-03-25T09:32:24.778Z</updated>
+    <updated>2021-03-29T17:16:59.827Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Dedicated Server Relocation]]></title>
+        <id>https://status.myvirtualserver.com/incidents/051e3e3d</id>
+        <link href="https://status.myvirtualserver.com/incidents/051e3e3d"/>
+        <updated>2021-03-25T09:17:49.658Z</updated>
+        <summary type="html"><![CDATA[We are relocating dedicated server hardware of a few customers]]></summary>
+        <content type="html"><![CDATA[<p>We are relocating dedicated server hardware of a few customers. Affected customers have been notified via email.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-03-29T17:14:14.215Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>We have completed the maintenance. Affected customers we offline for less than 5 minutes.</p>
+</div></div></div>
+]]></content>
+    </entry>
 </feed>
