@@ -1,1 +1,1 @@
-[{"name":"billing","status":"under-maintenance","order":1},{"name":"cloud","status":"under-maintenance","order":2},{"name":"network","status":"under-maintenance","order":3},{"name":"dedicated","status":"operational","order":4}]
+[{"name":"billing","status":"operational","order":1},{"name":"cloud","status":"operational","order":2},{"name":"network","status":"operational","order":3},{"name":"dedicated","status":"operational","order":4}]
