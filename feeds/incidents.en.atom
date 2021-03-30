@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-03-29T17:16:59.827Z</updated>
+    <updated>2021-03-30T07:36:23.262Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
@@ -20,7 +20,25 @@
           <div class="update-block-content">
             <div class="update-block-title">Resolved</div>
             <div class="update-block-body">
-<p>We have completed the maintenance. Affected customers we offline for less than 5 minutes.</p>
+<p>We have completed the maintenance. Affected customers were offline for less than 5 minutes.</p>
+</div></div></div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade of core router equipment]]></title>
+        <id>https://status.myvirtualserver.com/incidents/97456af8</id>
+        <link href="https://status.myvirtualserver.com/incidents/97456af8"/>
+        <updated>2021-03-23T10:48:13.264Z</updated>
+        <summary type="html"><![CDATA[Core Switches and Router are replaced with better hardware to increase throughput.]]></summary>
+        <content type="html"><![CDATA[<p>We are replacing core switches and router hardware to increase throughput and scale the network.</p>
+<p>Expect short network outages or degraded stability of up to 5 minutes during the maintenance window.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-03-30T07:33:30.119Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are beginning with the maintenance shortly. Expect interruptions of up to 5 minutes during the maintenance window.</p>
 </div></div></div>
 ]]></content>
     </entry>

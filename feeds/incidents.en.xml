@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 29 Mar 2021 17:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 07:36:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -21,7 +21,25 @@
           <div class="update-block-content">
             <div class="update-block-title">Resolved</div>
             <div class="update-block-body">
-<p>We have completed the maintenance. Affected customers we offline for less than 5 minutes.</p>
+<p>We have completed the maintenance. Affected customers were offline for less than 5 minutes.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Upgrade of core router equipment]]></title>
+            <link>https://status.myvirtualserver.com/incidents/97456af8</link>
+            <guid>https://status.myvirtualserver.com/incidents/97456af8</guid>
+            <pubDate>Tue, 23 Mar 2021 10:48:13 GMT</pubDate>
+            <description><![CDATA[Core Switches and Router are replaced with better hardware to increase throughput.]]></description>
+            <content:encoded><![CDATA[<p>We are replacing core switches and router hardware to increase throughput and scale the network.</p>
+<p>Expect short network outages or degraded stability of up to 5 minutes during the maintenance window.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-03-30T07:33:30.119Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are beginning with the maintenance shortly. Expect interruptions of up to 5 minutes during the maintenance window.</p>
 </div></div></div>
 ]]></content:encoded>
         </item>
