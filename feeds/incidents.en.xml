@@ -4,10 +4,26 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 03 May 2021 08:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 08:50:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Billing System Maintenance]]></title>
+            <link>https://status.myvirtualserver.com/incidents/831882e0</link>
+            <guid>https://status.myvirtualserver.com/incidents/831882e0</guid>
+            <pubDate>Mon, 03 May 2021 08:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>We are performing maintenance on our billing system.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-05-03T08:48:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Maintenance is now complete..</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Billing System Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/5f225a1c</link>
