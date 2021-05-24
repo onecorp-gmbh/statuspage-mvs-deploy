@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 24 May 2021 17:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 17:51:24 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,14 @@
 
 ]]></description>
             <content:encoded><![CDATA[<p>We are receiving reports of some VPS being offline and are currently investigating the issue.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-05-24T17:50:02.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Due to a distributed attack some VPS experienced degraded network stability. The network is stable again since 17:10 UTC.
+We apologise for the inconvenience.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
