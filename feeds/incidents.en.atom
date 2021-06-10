@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-05-24T17:51:24.882Z</updated>
+    <updated>2021-06-10T07:02:50.906Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Billing system and Teamspeak Host malfunction]]></title>
+        <id>https://status.myvirtualserver.com/incidents/f37dacd2</id>
+        <link href="https://status.myvirtualserver.com/incidents/f37dacd2"/>
+        <updated>2021-06-10T07:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Currently our billing system and the Teamspeak host are not available due to a technical error. 
+Our specialists are already working on a solution.]]></summary>
+        <content type="html"><![CDATA[<p>Currently our billing system and the Teamspeak host are not available due to a technical error.
+Our specialists are already working on a solution.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some VPS offline]]></title>
         <id>https://status.myvirtualserver.com/incidents/39ae7295</id>

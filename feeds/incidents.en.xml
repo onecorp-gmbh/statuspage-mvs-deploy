@@ -4,10 +4,21 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 24 May 2021 17:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 07:02:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Billing system and Teamspeak Host malfunction]]></title>
+            <link>https://status.myvirtualserver.com/incidents/f37dacd2</link>
+            <guid>https://status.myvirtualserver.com/incidents/f37dacd2</guid>
+            <pubDate>Thu, 10 Jun 2021 07:01:32 GMT</pubDate>
+            <description><![CDATA[Currently our billing system and the Teamspeak host are not available due to a technical error. 
+Our specialists are already working on a solution.]]></description>
+            <content:encoded><![CDATA[<p>Currently our billing system and the Teamspeak host are not available due to a technical error.
+Our specialists are already working on a solution.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Some VPS offline]]></title>
             <link>https://status.myvirtualserver.com/incidents/39ae7295</link>
