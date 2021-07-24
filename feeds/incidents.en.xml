@@ -4,10 +4,28 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Fri, 23 Jul 2021 06:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 23:37:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maintenance on web01.vnetso.com]]></title>
+            <link>https://status.myvirtualserver.com/incidents/9a0a3eb0</link>
+            <guid>https://status.myvirtualserver.com/incidents/9a0a3eb0</guid>
+            <pubDate>Thu, 22 Jul 2021 15:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>The maintenance work will take place on Saturday the 24.07.2021 at 11 P.M. (CEST) and will probably last 120 minutes, during this time the whole webspace including (depending on your configuration) website and mail will be unavailable.
+This maintenance work is necessary to further improve the quality of our products.</p>
+<p>We apologize for any inconvenience this may cause.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-07-24T23:35:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The maintenance has been completed.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Billing system and Teamspeak Host malfunction]]></title>
             <link>https://status.myvirtualserver.com/incidents/f37dacd2</link>
