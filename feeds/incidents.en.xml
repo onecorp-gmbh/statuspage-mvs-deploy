@@ -4,20 +4,10 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 26 Jul 2021 15:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 15:17:46 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Billing System Maintenance]]></title>
-            <link>https://status.myvirtualserver.com/incidents/f063c162</link>
-            <guid>https://status.myvirtualserver.com/incidents/f063c162</guid>
-            <pubDate>Mon, 26 Jul 2021 14:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p>On 27.07.2021 we will perform maintenance work on our billing system from 12pm to 2pm (CEST).
-During this time, the Customer Center will be completely or partially unavailable.</p>
-<!--- language code: en -->
-]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Maintenance on web01.vnetso.com]]></title>
             <link>https://status.myvirtualserver.com/incidents/9a0a3eb0</link>
