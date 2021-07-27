@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-07-27T08:30:59.709Z</updated>
+    <updated>2021-07-27T08:35:04.019Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
@@ -47,7 +47,7 @@ This maintenance work is necessary to further improve the quality of our product
         <title type="html"><![CDATA[Billing system and Teamspeak Host malfunction]]></title>
         <id>https://status.myvirtualserver.com/incidents/f37dacd2</id>
         <link href="https://status.myvirtualserver.com/incidents/f37dacd2"/>
-        <updated>2021-06-10T07:01:32.000Z</updated>
+        <updated>2021-06-10T10:39:23.000Z</updated>
         <summary type="html"><![CDATA[Currently our billing system and the Teamspeak host are not available due to a technical error. 
 Our specialists are already working on a solution.]]></summary>
         <content type="html"><![CDATA[<p>Currently our billing system and the Teamspeak host are not available due to a technical error.
@@ -68,7 +68,7 @@ We apologize for the inconvenience.</p>
         <title type="html"><![CDATA[Some VPS offline]]></title>
         <id>https://status.myvirtualserver.com/incidents/39ae7295</id>
         <link href="https://status.myvirtualserver.com/incidents/39ae7295"/>
-        <updated>2021-05-24T17:05:38.000Z</updated>
+        <updated>2021-05-24T17:50:02.000Z</updated>
         <summary type="html"><![CDATA[We are receiving reports of some VPS being offline and are currently investigating the issue.
 
 ]]></summary>
@@ -88,7 +88,7 @@ We apologise for the inconvenience.</p>
         <title type="html"><![CDATA[Billing System Maintenance]]></title>
         <id>https://status.myvirtualserver.com/incidents/831882e0</id>
         <link href="https://status.myvirtualserver.com/incidents/831882e0"/>
-        <updated>2021-05-03T08:09:37.662Z</updated>
+        <updated>2021-05-03T08:48:00.000Z</updated>
         <content type="html"><![CDATA[<p>We are performing maintenance on our billing system.</p>
 <!--- language code: en -->
 <div class="update-block">
@@ -104,7 +104,7 @@ We apologise for the inconvenience.</p>
         <title type="html"><![CDATA[Billing System Maintenance]]></title>
         <id>https://status.myvirtualserver.com/incidents/5f225a1c</id>
         <link href="https://status.myvirtualserver.com/incidents/5f225a1c"/>
-        <updated>2021-04-26T11:35:03.361Z</updated>
+        <updated>2021-04-26T11:57:44.649Z</updated>
         <content type="html"><![CDATA[<p>We are performing maintenance on our billing system.</p>
 <!--- language code: en -->
 <div class="update-block">
@@ -145,7 +145,7 @@ We apologise for the inconvenience.</p>
         <title type="html"><![CDATA[Dedicated Server Relocation]]></title>
         <id>https://status.myvirtualserver.com/incidents/051e3e3d</id>
         <link href="https://status.myvirtualserver.com/incidents/051e3e3d"/>
-        <updated>2021-03-25T09:17:49.658Z</updated>
+        <updated>2021-03-29T17:14:14.215Z</updated>
         <summary type="html"><![CDATA[We are relocating dedicated server hardware of a few customers]]></summary>
         <content type="html"><![CDATA[<p>We are relocating dedicated server hardware of a few customers. Affected customers have been notified via email.</p>
 <!--- language code: en -->

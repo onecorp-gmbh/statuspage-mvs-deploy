@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Tue, 27 Jul 2021 08:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:35:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -48,7 +48,7 @@ This maintenance work is necessary to further improve the quality of our product
             <title><![CDATA[Billing system and Teamspeak Host malfunction]]></title>
             <link>https://status.myvirtualserver.com/incidents/f37dacd2</link>
             <guid>https://status.myvirtualserver.com/incidents/f37dacd2</guid>
-            <pubDate>Thu, 10 Jun 2021 07:01:32 GMT</pubDate>
+            <pubDate>Thu, 10 Jun 2021 10:39:23 GMT</pubDate>
             <description><![CDATA[Currently our billing system and the Teamspeak host are not available due to a technical error. 
 Our specialists are already working on a solution.]]></description>
             <content:encoded><![CDATA[<p>Currently our billing system and the Teamspeak host are not available due to a technical error.
@@ -69,7 +69,7 @@ We apologize for the inconvenience.</p>
             <title><![CDATA[Some VPS offline]]></title>
             <link>https://status.myvirtualserver.com/incidents/39ae7295</link>
             <guid>https://status.myvirtualserver.com/incidents/39ae7295</guid>
-            <pubDate>Mon, 24 May 2021 17:05:38 GMT</pubDate>
+            <pubDate>Mon, 24 May 2021 17:50:02 GMT</pubDate>
             <description><![CDATA[We are receiving reports of some VPS being offline and are currently investigating the issue.
 
 ]]></description>
@@ -89,7 +89,7 @@ We apologise for the inconvenience.</p>
             <title><![CDATA[Billing System Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/831882e0</link>
             <guid>https://status.myvirtualserver.com/incidents/831882e0</guid>
-            <pubDate>Mon, 03 May 2021 08:09:37 GMT</pubDate>
+            <pubDate>Mon, 03 May 2021 08:48:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>We are performing maintenance on our billing system.</p>
 <!--- language code: en -->
 <div class="update-block">
@@ -105,7 +105,7 @@ We apologise for the inconvenience.</p>
             <title><![CDATA[Billing System Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/5f225a1c</link>
             <guid>https://status.myvirtualserver.com/incidents/5f225a1c</guid>
-            <pubDate>Mon, 26 Apr 2021 11:35:03 GMT</pubDate>
+            <pubDate>Mon, 26 Apr 2021 11:57:44 GMT</pubDate>
             <content:encoded><![CDATA[<p>We are performing maintenance on our billing system.</p>
 <!--- language code: en -->
 <div class="update-block">
@@ -146,7 +146,7 @@ We apologise for the inconvenience.</p>
             <title><![CDATA[Dedicated Server Relocation]]></title>
             <link>https://status.myvirtualserver.com/incidents/051e3e3d</link>
             <guid>https://status.myvirtualserver.com/incidents/051e3e3d</guid>
-            <pubDate>Thu, 25 Mar 2021 09:17:49 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 17:14:14 GMT</pubDate>
             <description><![CDATA[We are relocating dedicated server hardware of a few customers]]></description>
             <content:encoded><![CDATA[<p>We are relocating dedicated server hardware of a few customers. Affected customers have been notified via email.</p>
 <!--- language code: en -->
