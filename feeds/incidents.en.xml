@@ -4,10 +4,20 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Tue, 27 Jul 2021 10:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 10:07:29 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Billing System Maintenance]]></title>
+            <link>https://status.myvirtualserver.com/incidents/f063c162</link>
+            <guid>https://status.myvirtualserver.com/incidents/f063c162</guid>
+            <pubDate>Tue, 27 Jul 2021 10:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>On 27.07.2021 we will perform maintenance work on our billing system from 12pm to 2pm (CEST).
+During this time, the Customer Center will be completely or partially unavailable.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Maintenance on tshost.myvirtualserver.com]]></title>
             <link>https://status.myvirtualserver.com/incidents/b8790ca2</link>
@@ -24,16 +34,6 @@ This maintenance work is necessary to further improve the quality of our product
             <div class="update-block-body">
 <p>The maintenance has been completed.</p>
 </div></div></div>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Billing System Maintenance]]></title>
-            <link>https://status.myvirtualserver.com/incidents/f063c162</link>
-            <guid>https://status.myvirtualserver.com/incidents/f063c162</guid>
-            <pubDate>Mon, 26 Jul 2021 14:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p>On 27.07.2021 we will perform maintenance work on our billing system from 12pm to 2pm (CEST).
-During this time, the Customer Center will be completely or partially unavailable.</p>
-<!--- language code: en -->
 ]]></content:encoded>
         </item>
         <item>
