@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-07-27T08:35:04.019Z</updated>
+    <updated>2021-07-27T08:38:58.028Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
@@ -11,13 +11,13 @@
         <title type="html"><![CDATA[Maintenance on tshost.myvirtualserver.com]]></title>
         <id>https://status.myvirtualserver.com/incidents/b8790ca2</id>
         <link href="https://status.myvirtualserver.com/incidents/b8790ca2"/>
-        <updated>2021-07-27T10:20:39.662Z</updated>
+        <updated>2021-07-27T08:20:39.662Z</updated>
         <content type="html"><![CDATA[<p>The maintenance work will take place on Tuesday the 27.07.2021 at 10 A.M. (CEST) and will probably last 20 minutes, during this time the whole teamspeak host will be unavailable.
 This maintenance work is necessary to further improve the quality of our products.</p>
 <p>We apologize for any inconvenience this may cause.</p>
 <!--- language code: en -->
 <div class="update-block">
-          <div class="update-block-date">2021-07-27T10:20:39.662Z</div>
+          <div class="update-block-date">2021-07-27T08:20:39.662Z</div>
           <div class="update-block-content">
             <div class="update-block-title">Resolved</div>
             <div class="update-block-body">
