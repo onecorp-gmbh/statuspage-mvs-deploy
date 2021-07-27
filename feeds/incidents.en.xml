@@ -4,10 +4,28 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 26 Jul 2021 15:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:21:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maintenance on tshost.myvirtualserver.com]]></title>
+            <link>https://status.myvirtualserver.com/incidents/b8790ca2</link>
+            <guid>https://status.myvirtualserver.com/incidents/b8790ca2</guid>
+            <pubDate>Thu, 22 Jul 2021 15:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>The maintenance work will take place on Tuesday the 27.07.2021 at 10 A.M. (CEST) and will probably last 20 minutes, during this time the whole teamspeak host will be unavailable.
+This maintenance work is necessary to further improve the quality of our products.</p>
+<p>We apologize for any inconvenience this may cause.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-07-27T10:20:39.662Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The maintenance has been completed.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Maintenance on web01.vnetso.com]]></title>
             <link>https://status.myvirtualserver.com/incidents/9a0a3eb0</link>
