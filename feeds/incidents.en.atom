@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-07-27T08:38:58.028Z</updated>
+    <updated>2021-07-27T10:01:30.113Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
@@ -23,6 +23,16 @@ This maintenance work is necessary to further improve the quality of our product
             <div class="update-block-body">
 <p>The maintenance has been completed.</p>
 </div></div></div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billing System Maintenance]]></title>
+        <id>https://status.myvirtualserver.com/incidents/f063c162</id>
+        <link href="https://status.myvirtualserver.com/incidents/f063c162"/>
+        <updated>2021-07-26T14:15:03.361Z</updated>
+        <content type="html"><![CDATA[<p>On 27.07.2021 we will perform maintenance work on our billing system from 12pm to 2pm (CEST).
+During this time, the Customer Center will be completely or partially unavailable.</p>
+<!--- language code: en -->
 ]]></content>
     </entry>
     <entry>
