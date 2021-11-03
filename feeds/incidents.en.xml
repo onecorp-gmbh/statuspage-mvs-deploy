@@ -4,10 +4,21 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Tue, 27 Jul 2021 13:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:25:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[network connectivity issues]]></title>
+            <link>https://status.myvirtualserver.com/incidents/61c672ea</link>
+            <guid>https://status.myvirtualserver.com/incidents/61c672ea</guid>
+            <pubDate>Wed, 03 Nov 2021 08:24:09 GMT</pubDate>
+            <description><![CDATA[Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution]]></description>
+            <content:encoded><![CDATA[<p>Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Billing System Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/f063c162</link>

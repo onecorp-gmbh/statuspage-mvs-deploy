@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2021-07-27T13:02:06.248Z</updated>
+    <updated>2021-11-03T08:25:21.370Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[network connectivity issues]]></title>
+        <id>https://status.myvirtualserver.com/incidents/61c672ea</id>
+        <link href="https://status.myvirtualserver.com/incidents/61c672ea"/>
+        <updated>2021-11-03T08:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution]]></summary>
+        <content type="html"><![CDATA[<p>Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billing System Maintenance]]></title>
         <id>https://status.myvirtualserver.com/incidents/f063c162</id>
