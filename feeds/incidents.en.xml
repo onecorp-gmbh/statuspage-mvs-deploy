@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:49:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,14 @@
 We are already working on a solution]]></description>
             <content:encoded><![CDATA[<p>Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
 We are already working on a solution</p>
+<div class="update-block">
+          <div class="update-block-date">2021-11-03T08:48:24.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The reason for the network issue was a bug in one of our packet forwarding engines.
+The malfunction has been repaired and the network is stable again.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
