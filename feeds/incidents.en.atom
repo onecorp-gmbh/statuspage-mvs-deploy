@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2022-01-25T11:11:38.879Z</updated>
+    <updated>2022-01-28T08:58:20.358Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[compute01 Maintenance]]></title>
+        <id>https://status.myvirtualserver.com/incidents/68860020</id>
+        <link href="https://status.myvirtualserver.com/incidents/68860020"/>
+        <updated>2022-01-28T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>In order to further improve our product quality and guarantee the stability of our services, we regularly carry out maintenance work on our systems.</p>
+<p>The maintenance work will take place on Friday, 28.01.2022 at 09:00 (CET) and will last up to one hour.</p>
+<p>During this time, cloud servers on compute01 will be unavailable. During the maintenance window, we will shut down the cloud servers via APCI (Software Shutdown).</p>
+<p>Thank you for your understanding</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-01-28T08:55:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The maintenance has been completed. All cloud servers are online again.</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billing Panel Maintenance]]></title>
         <id>https://status.myvirtualserver.com/incidents/e439dd0e</id>
