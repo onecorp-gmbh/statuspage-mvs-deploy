@@ -4,10 +4,36 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:02:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[compute23 Maintenance]]></title>
+            <link>https://status.myvirtualserver.com/incidents/28f4ee4f</link>
+            <guid>https://status.myvirtualserver.com/incidents/28f4ee4f</guid>
+            <pubDate>Wed, 23 Feb 2022 13:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>In order to further improve our product quality and guarantee the stability of our services, we regularly perform maintenance work on our systems.</p>
+<p>The maintenance work will take place on Wednesday, 23.02.2022 at 14:00 (CET).</p>
+<p>During this time, cloud servers on compute23 will be temporarily unavailable. Cloud Servers that are already off will be migrated first. Afterwards we will shutdown any cloud server's that are still running via APCI (Software Shutdown).</p>
+<p>Thank you for your understanding
+</br>
+</br></p>
+<details>
+  <summary>Affected Instances</summary>
+  00d17698-475f-48ec-b0bf-f397fdc11833
+<p>787cbd3f-8abb-49d0-9aae-4335329af61e</p>
+</details>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-02-23T13:00:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are beginning with the migrations now.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[compute23 Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/7ba5b9d4</link>
