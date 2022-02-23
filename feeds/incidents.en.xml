@@ -4,10 +4,45 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:01:58 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[compute23 Maintenance]]></title>
+            <link>https://status.myvirtualserver.com/incidents/7ba5b9d4</link>
+            <guid>https://status.myvirtualserver.com/incidents/7ba5b9d4</guid>
+            <pubDate>Wed, 23 Feb 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>In order to further improve our product quality and guarantee the stability of our services, we regularly perform maintenance work on our systems.</p>
+<p>The maintenance work will take place on Wednesday, 23.02.2022 at 09:00 (CET).</p>
+<p>During this time, cloud servers on compute23 will be temporarily unavailable. Cloud Servers that are already off will be migrated first. Afterwards we will shutdown any cloud server's that are still running via APCI (Software Shutdown).</p>
+<p>Thank you for your understanding
+</br>
+</br></p>
+<details>
+  <summary>Affected Instances</summary>
+  c7235402-ecd4-49ba-9851-28ef2892a861
+<p>0c63bb87-9925-4190-a2da-c9b650882601</p>
+<p>6026ed89-64d9-4eae-a354-f2e21b11f78e</p>
+<p>f7c98657-9d17-46cf-bd15-c2c68f9d2683</p>
+<p>99f5c883-9487-492c-842d-883da4638f7d</p>
+<p>093c3611-6ad5-4f3a-a446-479f405063fa</p>
+<p>26142108-5ea2-44c8-8ba9-6195ee958466</p>
+<p>fec943c4-c845-4587-b855-52fd3849905d</p>
+<p>7656a4c1-e769-48a3-b533-b9618a7ccc04</p>
+<p>ff180566-fad4-42fe-9a62-1442d33dc1ca</p>
+<p>e7f17fb8-07d3-44d2-a6c4-6a4ee04fe891</p>
+</details>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-02-23T08:00:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are beginning with the migrations now.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[compute23 Maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/220c9e8f</link>
