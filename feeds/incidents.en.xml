@@ -4,10 +4,69 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Fri, 04 Mar 2022 13:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:11:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[compute13 maintenance]]></title>
+            <link>https://status.myvirtualserver.com/incidents/4015ccb0</link>
+            <guid>https://status.myvirtualserver.com/incidents/4015ccb0</guid>
+            <pubDate>Mon, 07 Mar 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>In order to further improve our product quality and guarantee the stability of our services, we regularly perform maintenance work on our systems.</p>
+<p>The maintenance work will take place on Monday, 07.03.2022 at 09:00 (CET).</p>
+<p>During this time, cloud servers on compute13 will be temporarily unavailable. Cloud Servers that are already off will be migrated first. Afterwards we will shutdown any cloud server's that are still running via APCI (Software Shutdown).</p>
+<p>Thank you for your understanding
+</br>
+</br></p>
+<details>
+  <summary>Affected Instances</summary>
+  6d6253d2-7d94-47f2-b7ca-9d27b4c4181d
+<p>09c85f96-f0e0-4eb8-9f73-f203096ba289</p>
+<p>da91649a-1282-4022-b810-dc212b7c95e7</p>
+<p>4fbb555b-975a-4031-bd1c-3912a9e602b3</p>
+<p>a6cf1f1d-71d0-4cc9-9a0d-8b5677d91f14</p>
+<p>a4519197-9793-4b00-ba2a-5b72d7be4e8d</p>
+<p>15abcc40-0632-4f5e-8fb4-ffaecc578f4f</p>
+<p>2d36c6bd-2ac5-4865-84ac-ddbdf39c4963</p>
+<p>9cfdf1dd-0129-4059-b6cd-3d6e021e6ef9</p>
+<p>ac9cdf0f-4791-4370-a32b-d9d72667c8fa</p>
+<p>15e49957-f725-48f9-987c-b03baee72d1b</p>
+<p>4911f1b3-2e01-4244-9112-5a6fd3d2f657</p>
+<p>78569d47-ba64-4919-838d-dc513bac1338</p>
+<p>d493815a-f80e-493a-b529-cf8544c68a70</p>
+<p>b3d2fddc-d290-4aba-8643-400ba7ce524c</p>
+<p>9361bf92-870f-4711-830e-a470c4a20254</p>
+<p>a7905f84-fba1-4a57-a513-bb918133db1d</p>
+<p>d65a4913-f7c2-4230-9ef0-76c9fc03d65f</p>
+<p>942d2e7c-ac94-40dd-a703-e7d6155974d8</p>
+<p>1cb394f0-5972-4936-a274-4e26e0d0aed8</p>
+<p>34197de1-3ddd-4e1a-beec-e829da40d510</p>
+<p>56da008e-deb4-4653-aa3e-470fd20a1190</p>
+<p>fbd025d6-7c95-431c-b483-daab3325849b</p>
+<p>8b5dc4e2-d6a2-4527-b2a7-50e06f3e0fd6</p>
+<p>093a37ee-1da3-4bce-a557-dc1093c555cf</p>
+<p>214dbb1f-2665-44fa-8430-a2d0ba3ae791</p>
+<p>bd0e5dd0-44f0-458c-8b92-82dfdd77894a</p>
+<p>45792de5-7385-4604-b3f5-948719f76700</p>
+<p>3e9a4037-9a04-46b3-9bad-ca0143061f95</p>
+<p>3b6b8b75-ca8f-4d43-ab5f-f11082460a3c</p>
+<p>dd4d7c1a-ca9b-4fbf-b5d5-a373f1869f9b</p>
+<p>19ebbc0e-bcbb-4ad7-93c2-2a7ec11f3543</p>
+<p>eb75ea68-a722-4baf-858e-d26c1699e2b8</p>
+<p>739d02e2-f3b4-43c0-ac80-ac2c51cda728</p>
+<p>05024c36-329c-431b-a34a-1f06082fc3ab</p>
+</details>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-03-07T08:00:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are beginning with the migrations now.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[compute13 maintenance]]></title>
             <link>https://status.myvirtualserver.com/incidents/8c07705c</link>
