@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2022-04-13T06:51:33.849Z</updated>
+    <updated>2022-04-13T11:21:07.977Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[cloud vps maintenance]]></title>
+        <id>https://status.myvirtualserver.com/incidents/0aa8f674</id>
+        <link href="https://status.myvirtualserver.com/incidents/0aa8f674"/>
+        <updated>2022-04-13T06:46:00.000Z</updated>
+        <content type="html"><![CDATA[<p>In order to further improve our product quality and guarantee the stability of our services, we regularly perform maintenance work on our systems.</p>
+<p>The maintenance work will take place on Wednesday, 13.04.2022 at 13:00 (CEST).</p>
+<p>During this time, all cloud servers will be temporarily unavailable. We will shutdown any cloud server's via APCI (Software Shutdown).</p>
+<p>Thank you for your understanding
+</br></p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-04-13T06:46:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>Unfortunately, contradictions have arisen in the specification of the time zone.
+The maintenance work will take place today (13.04.2022) at 13 o'clock CEST.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2022-04-13T11:17:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>The maintenance might take a bit longer than expected. We are beginning now with shutting down the Cloud Servers.</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[network connectivity issues]]></title>
         <id>https://status.myvirtualserver.com/incidents/54571a2d</id>
