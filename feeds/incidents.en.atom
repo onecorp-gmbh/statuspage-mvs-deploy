@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2022-05-13T08:56:07.730Z</updated>
+    <updated>2022-06-10T08:28:34.711Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
     <subtitle>myVirtualserver Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[network connectivity issues]]></title>
+        <id>https://status.myvirtualserver.com/incidents/dfd908ac</id>
+        <link href="https://status.myvirtualserver.com/incidents/dfd908ac"/>
+        <updated>2022-06-09T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to a well-distributed DoS attack towards multiple prefixes we currently experience network stability issues for DDoS protected traffic currently routed via our external DDoS mitigation service provider. We are already working on a solution. 
+
+We are already working on a solution
+]]></summary>
+        <content type="html"><![CDATA[<p>Due to a well-distributed DoS attack towards multiple prefixes we currently experience network stability issues for DDoS protected traffic currently routed via our external DDoS mitigation service provider.
+We are already working on a solution.</p>
+<div class="update-block">
+          <div class="update-block-date">2022-06-09T20:15:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>The permanent DDoS protection / filter rules of our external DDoS mitigation service provider has been established for a wide amount of prefixes in order to establish regular network operation again. But we still do experience some issues for some prefixes. We are currently in direct contact with the external DDoS mitigation service provider to solve the problem as quickly as possible.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2022-06-09T21:52:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The problem has been resolved. All services are up and running in normal operation mode. We are still in direct contact with our external DDoS mitigation service provide in order to improve the quality of the service for the future.</p>
+<p>We apologies to our customers impacted by the consequences of the DDoS attack.</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[network connectivity issues]]></title>
         <id>https://status.myvirtualserver.com/incidents/080e630e</id>
