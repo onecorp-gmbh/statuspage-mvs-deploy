@@ -4,10 +4,31 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 15:15:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[power failure at Düsseldorf site]]></title>
+            <link>https://status.myvirtualserver.com/incidents/638b5480</link>
+            <guid>https://status.myvirtualserver.com/incidents/638b5480</guid>
+            <pubDate>Wed, 22 Jun 2022 14:19:00 GMT</pubDate>
+            <description><![CDATA[We currently have a power outage at the Düsseldorf site 
+
+We are already working on a solution
+]]></description>
+            <content:encoded><![CDATA[<p>Currently, the entire city power network in Düsseldorf is disrupted.
+The USV systems of the data centers have taken over the power supply.</p>
+<div class="update-block">
+          <div class="update-block-date">2022-06-22T15:12:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>Due to the power outage, some air conditioners have failed, causing server heat issues and shutdowns.
+We are currently in direct contact with the datacenter to solve the problem as quickly as possible.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[network connectivity issues]]></title>
             <link>https://status.myvirtualserver.com/incidents/dfd908ac</link>
