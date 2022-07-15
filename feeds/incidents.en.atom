@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.myvirtualserver.com</id>
     <title>myVirtualserver Status</title>
-    <updated>2022-07-15T08:42:24.654Z</updated>
+    <updated>2022-07-15T08:47:50.414Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.myvirtualserver.com"/>
     <link rel="self" href="https://status.myvirtualserver.com/feeds/incidents.en.atom"/>
@@ -31,6 +31,13 @@ keep the interruption as minimal as possible.</p>
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
 <p>Instances are currently booting and we are monitoring the process.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2022-07-15T08:45:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Completed</div>
+            <div class="update-block-body">
+<p>All instances are back online. Maintenance is now complete.</p>
 </div></div></div>
 ]]></content>
     </entry>
