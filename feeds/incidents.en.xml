@@ -4,7 +4,7 @@
         <title>myVirtualserver Status</title>
         <link>https://status.myvirtualserver.com</link>
         <description>myVirtualserver Status Page</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:46:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.myvirtualserver.com/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -25,6 +25,15 @@ keep the interruption as minimal as possible.</p>
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
 <p>We are beginning with the maintenance now. Instances might be unavailable during this time.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2022-08-08T08:40:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>We are currently having issues with the control plane and are unable to start the VMs.
+The issue is currently being investigated, however we are unable to give an exact timeframe when the services will recover.
+This page will be updated as soon as we have more information.</p>
 </div></div></div>
 ]]></content:encoded>
         </item>
